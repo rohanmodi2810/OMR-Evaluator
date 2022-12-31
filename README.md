@@ -3,4 +3,4 @@ A Computer Vision based application to scan and evaluate OMR answer sheets. Uses
 ### How to run
 INSTALL ALL LIBRARIES\
 Open cmd at same folder as the project is\
-run command: python OMRevaluator -i 01.JPG\
+run command: python OMRevaluator -i 01.JPG
